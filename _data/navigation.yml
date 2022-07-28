@@ -71,3 +71,12 @@ links:
         url: /Highlights-and-Achievements/School-Achievements/permalink
       - title: Alumni Stories
         url: /Highlights-and-Achievements/Alumni-Stories/permalink
+  - title: Community
+    url: /Community/Parent-Support-Group/About-PSG/permalink
+    sublinks:
+      - title: Parent Support Group
+        url: /Community/Parent-Support-Group/About-PSG/permalink
+      - title: Alumni
+        url: /Community/Alumni/permalink
+      - title: Useful Links
+        url: /Community/Useful-Links/permalink
