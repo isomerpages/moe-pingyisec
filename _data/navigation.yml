@@ -1,15 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: "About PYSS "
+    url: /permalink
+    sublinks:
+      - title: "School History "
+        url: /About-PYSS/School-History/permalink
+      - title: Philosophy, Vision and more
+        url: /About-PYSS/Philosophy, Vision-Mission-Values-and-Motto/permalink
+      - title: "School Crest and School Song "
+        url: /About-PYSS/School-Crest-and-School-Song/permalink
+      - title: Ping Yian Outcomes
+        url: /About-PYSS/Ping-Yian-Outcomes/permalink
+      - title: School Management Committee
+        url: /About-PYSS/School-Management-Committee/permalink
+      - title: School Advisory Committee
+        url: /About-PYSS/School-Advisory-Committee/permalink
+      - title: Principal's Message
+        url: /About-PYSS/Principals-Message/permalink
+      - title: Vice-Principal
+        url: /About-PYSS/Vice-Principal/permalink
+      - title: "Contact Us "
+        url: /About-PYSS/Contact-Us/permalink
+      - title: "Privacy Policy "
+        url: /About-PYSS/Privacy-Policy/permalink
