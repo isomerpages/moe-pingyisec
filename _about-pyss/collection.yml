@@ -2,4 +2,5 @@ collections:
   about-pyss:
     output: true
     order:
+      - Contact Us.md
       - Privacy Policy.md
