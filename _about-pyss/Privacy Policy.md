@@ -3,6 +3,9 @@ title: Privacy Policy
 permalink: /about-pyss/Privacy-Policy/permalink
 description: ""
 ---
+Privacy Policy
+==============
+
 1\.  This is a school website. We adopt the same principles relating to your privacy as other Government of Singapore websites.  
       
     
