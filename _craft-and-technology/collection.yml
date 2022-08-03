@@ -2,5 +2,6 @@ collections:
   craft-and-technology:
     output: true
     order:
+      - Key Programmes.md
       - Contact List.md
       - Gallery.md
