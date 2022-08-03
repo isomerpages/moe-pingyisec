@@ -84,3 +84,8 @@ In the national YMCA Plain English Speaking Award Competition:
 *   Tara (Class 201) was placed on the Honour Roll (Lower Secondary Category) in 2016.
 
 <img src="/images/el6.png" style="width:75%">
+
+In the 17th Inter-School National Scrabble Championship 2018:
+
+*   ‘C’ Division Team won the Champion \[Bowl (II) category\]. Our proud winners are: Ji Ming, Mariah, Hui Fang, Yusuf and Muhammad Raden (Class 201).
+*   Our students also did us proud in the 8th Super Zone Scrabble Competition by clinching the Runners up. Team members include Ji Ming (Class 201), Mariah (Class 201), Yusuf (Class 201), Angel (Class 201), Wei Xiong (Class 221), and Yi Xuan (Class 121).
