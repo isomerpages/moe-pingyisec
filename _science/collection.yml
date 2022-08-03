@@ -2,5 +2,6 @@ collections:
   science:
     output: true
     order:
+      - Science.md
       - Contact List.md
       - Gallery.md
