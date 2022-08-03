@@ -2,4 +2,4 @@ collections:
   science:
     output: true
     order:
-      - Science.md
+      - Key Programmes.md
