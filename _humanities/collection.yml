@@ -2,5 +2,6 @@ collections:
   humanities:
     output: true
     order:
+      - Key Programmes.md
       - Contact List.md
       - Gallery.md
