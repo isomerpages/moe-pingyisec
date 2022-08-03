@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Departments/Science.md
       - Departments/Humanities.md
       - Departments/Craft & Technology.md
       - Departments/Physical Education.md
