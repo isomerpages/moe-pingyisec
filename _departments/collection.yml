@@ -2,4 +2,5 @@ collections:
   departments:
     output: true
     order:
+      - Physical Education/.keep
       - Normal Technical/.keep
