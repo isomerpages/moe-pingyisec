@@ -1,4 +1,5 @@
 collections:
   normal-technical:
     output: true
-    order: []
+    order:
+      - Gallery.md
