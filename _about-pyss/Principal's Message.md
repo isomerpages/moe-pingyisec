@@ -3,8 +3,9 @@ title: Principal's Message
 permalink: /about-pyss/Principals-Message/permalink
 description: ""
 ---
+<img src="/images/p1.png" style="width:230px;height:300px;margin-right:25px;" align = "left">“We are free to go where we wish, and to be what we want”  
+\- Jonathan Livingstone Seagull
 
-<img src="/images/p1.png" style="width:325px;height:240px;margin-right:25px;" align = "left">
   
 
   
@@ -38,5 +39,4 @@ Thank you!
   
 
 ANG CHEE SENG
-
-Principal
+<br>Principal
