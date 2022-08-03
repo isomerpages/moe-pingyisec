@@ -2,4 +2,5 @@ collections:
   normal-technical:
     output: true
     order:
+      - Key Programmes.md
       - Gallery.md
