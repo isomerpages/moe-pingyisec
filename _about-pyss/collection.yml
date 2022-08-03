@@ -2,6 +2,7 @@ collections:
   about-pyss:
     output: true
     order:
+      - Ping Yian Outcomes.md
       - School Management Committee (SMC).md
       - School Advisory Committee (SAC).md
       - Principal's Message.md
