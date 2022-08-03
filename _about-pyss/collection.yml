@@ -2,6 +2,7 @@ collections:
   about-pyss:
     output: true
     order:
+      - School Advisory Committee (SAC).md
       - Principal's Message.md
       - Vice Principal.md
       - Contact Us.md
