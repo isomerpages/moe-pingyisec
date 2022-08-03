@@ -2,6 +2,7 @@ collections:
   about-pyss:
     output: true
     order:
+      - Principal's Message.md
       - Vice Principal.md
       - Contact Us.md
       - Privacy Policy.md
