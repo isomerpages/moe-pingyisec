@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Lang and Literature/Key Programmes.md
       - English Lang and Literature/Contact List.md
       - English Lang and Literature/Gallery.md
       - English Lang and Literature/.keep
