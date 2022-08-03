@@ -2,6 +2,7 @@ collections:
   academic-programmes:
     output: true
     order:
+      - Departments/Normal Technical.md
       - Departments/.keep
       - Subjects Offered in PYSS.md
       - Full Subject Based Banding.md
