@@ -1,5 +1,4 @@
 collections:
   mathematics:
     output: true
-    order:
-      - Key Programmes.md
+    order: []
