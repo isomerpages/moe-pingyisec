@@ -2,4 +2,5 @@ collections:
   craft-and-technology:
     output: true
     order:
+      - Contact List.md
       - Gallery.md
