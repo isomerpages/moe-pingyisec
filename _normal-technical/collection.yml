@@ -1,5 +1,4 @@
 collections:
   normal-technical:
     output: true
-    order:
-      - Key Programmes.md
+    order: []
