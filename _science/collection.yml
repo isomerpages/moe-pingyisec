@@ -1,5 +1,4 @@
 collections:
   science:
     output: true
-    order:
-      - Key Programmes.md
+    order: []
