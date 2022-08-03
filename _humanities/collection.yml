@@ -1,5 +1,4 @@
 collections:
   humanities:
     output: true
-    order:
-      - Key Programmes.md
+    order: []
