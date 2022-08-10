@@ -4,7 +4,12 @@ permalink: /co-curricular-activities/Clubs-and-Societies/Media-Club/permalink
 description: ""
 third_nav_title: Clubs & Societies
 ---
+Media Club
+==========
+
 <img src="/images/media1.png" style="width:75%">
+
+### Schedule
 
 ### Achievements
 
