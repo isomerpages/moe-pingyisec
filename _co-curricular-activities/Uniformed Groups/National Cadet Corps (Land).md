@@ -7,6 +7,7 @@ third_nav_title: Uniformed Groups
 National Cadet Corps (Land)
 ===========================
 
+<img src="/images/ncc.png" style="width:75%">
 
 
 ### About National Cadet Corps (Land)
