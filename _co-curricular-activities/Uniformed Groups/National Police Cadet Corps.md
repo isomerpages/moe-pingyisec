@@ -31,4 +31,3 @@ National Police Cadet Corps
 | Training Day | Venue | Teachers |
 |---|---|---|
 | Thu, 3:30pm – 5:30pm | Parade Square | **Mr Goh Tiong Ann (OIC)**<br>Ms Sharifah (2IC)<br>Mdm Lim Moi Yin (Semester 2) |
-| Station Inspector | JIAXUAN |  |
