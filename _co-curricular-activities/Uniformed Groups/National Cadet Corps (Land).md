@@ -33,4 +33,3 @@ National Cadet Corps (Land)
 | Training Day | Venue | Teachers |
 |---|---|---|
 | Thu, 3:30pm – 5:30pm | Parade Square | **Mr Ashley Ong (OIC)**<br>Mr Muhd Nur Alim (2IC)<br>Mr Awalludin  |
-
