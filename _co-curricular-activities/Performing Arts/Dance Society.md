@@ -12,7 +12,7 @@ Dance Society
 
 ### About Dance Society
 
-### Achievements
+**Achievements**
 
 
 |  |  |  |
@@ -21,7 +21,7 @@ Dance Society
 | 2017 | SYF Arts Presentation International | Certificate of Accomplishment |
 
 
-### Office Bearers
+**Office Bearers**
 
 
 | Position | Name |
@@ -34,4 +34,4 @@ Dance Society
 
 | Training Days | Venue | Teachers |
 |---|---|---|
-| Tue, 3:30pm – 5:30pm | Hall/Dance Studio | Ms Dawn Ng (OIC)<br>Mr Mohd Rafi (2IC) |
+| Tue, 3:30pm – 5:30pm | Hall/Dance Studio | **Ms Dawn Ng (OIC)**<br>Mr Mohd Rafi (2IC) |
