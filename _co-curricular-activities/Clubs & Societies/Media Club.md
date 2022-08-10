@@ -9,9 +9,8 @@ Media Club
 
 <img src="/images/media1.png" style="width:75%">
 
-### Schedule
 
-### Achievements
+**Achievements**
 
 |  |  |
 |---|---|
@@ -20,13 +19,15 @@ Media Club
 | 2017 | ● Urban Redevelopment Authority & NYAA Documenting Serangoon Road Heritage Project (2016 – 2017) |
 
 
-### Office Bearers
+**Office Bearers**
 
 | Position | Name |
 |---|---|
 | President | Hajira Begum |
 | Vice-President | Hakeem Jeffrey |
 
+
+### Schedule
 
 
 | Training Day | Venue | Teachers |
