@@ -7,15 +7,13 @@ third_nav_title: Clubs & Societies
 Makers Club
 ===========
 
-Achievements
-------------
+**Achievements**
 
 |  |  |
 |---|---|
 | <br><br>2019 | Drone Odyssey Challenge 2019:<br>a.   Drone Swarming Category – Third Place<br>b.   Best Strategy Award<br>c.    Best Drone Knowledge Award<br>d.   Top 10 Finalist Award |
 
-Office Bearers
---------------
+**Office Bearers**
 
 | Position        | Name |
 |---|---|
