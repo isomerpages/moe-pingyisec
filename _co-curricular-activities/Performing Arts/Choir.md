@@ -7,7 +7,7 @@ third_nav_title: Performing Arts
 Choir
 =====
 
-
+<img src="/images/choir.png" style="width:75%">
 
 ### About 
 **Achievements**
