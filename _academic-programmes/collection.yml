@@ -1,0 +1,7 @@
+collections:
+  academic-programmes:
+    output: true
+    order:
+      - Departments.md
+      - Subjects Offered in PYSS.md
+      - Full Subject Based Banding.md

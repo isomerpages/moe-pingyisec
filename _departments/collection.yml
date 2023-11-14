@@ -1,0 +1,35 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Lang and Literature/Key Programmes.md
+      - English Lang and Literature/Contact List.md
+      - English Lang and Literature/Gallery.md
+      - English Lang and Literature/.keep
+      - Mother Tongue Languages/Key Programmes.md
+      - Mother Tongue Languages/Contact List.md
+      - Mother Tongue Languages/Gallery.md
+      - Mother Tongue Languages/.keep
+      - Mathematics/Key Programmes.md
+      - Mathematics/Contact List.md
+      - Mathematics/Gallery.md
+      - Mathematics/.keep
+      - Science/Key Programmes.md
+      - Science/Contact List.md
+      - Science/Gallery.md
+      - Science/.keep
+      - Humanities/Key Programmes.md
+      - Humanities/Contact List.md
+      - Humanities/Gallery.md
+      - Humanities/.keep
+      - Craft and Technology/Key Programmes.md
+      - Craft and Technology/Contact List.md
+      - Craft and Technology/Gallery.md
+      - Craft and Technology/.keep
+      - Physical Education/Key Programmes.md
+      - Physical Education/Contact List.md
+      - Physical Education/Gallery.md
+      - Physical Education/.keep
+      - Normal Technical/Key Programmes.md
+      - Normal Technical/Gallery.md
+      - Normal Technical/.keep

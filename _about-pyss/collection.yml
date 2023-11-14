@@ -1,0 +1,15 @@
+collections:
+  about-pyss:
+    output: true
+    order:
+      - School History/Partners & Alumni.md
+      - School History/.keep
+      - Philosophy, Vision, Mission, Values and Motto.md
+      - School Crest and School Song.md
+      - Ping Yian Outcomes.md
+      - School Management Committee (SMC).md
+      - School Advisory Committee (SAC).md
+      - Principal's Message.md
+      - Vice Principal.md
+      - Contact Us.md
+      - Privacy Policy.md
